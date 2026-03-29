@@ -19,3 +19,5 @@ Author: Poornima
 8. Adding Status so that user can play train games
 
 9. Adding options to create groups upto 200 users
+
+10. Added emoji
