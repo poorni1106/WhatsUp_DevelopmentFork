@@ -17,3 +17,5 @@ Author: Poornima
 7. Adding the video call feature
 
 8. Adding Status so that user can play train games
+
+9. Adding group feature to include 100 users
